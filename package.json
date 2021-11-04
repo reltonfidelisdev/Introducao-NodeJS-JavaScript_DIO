@@ -1,0 +1,19 @@
+{
+  "name": "introducao-nodejs-javascript_dio",
+  "version": "1.0.0",
+  "description": "Aula de NodeJS - Bootcamp Eduzz FullStack Developer DIO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reltonfidelisdev/Introducao-NodeJS-JavaScript_DIO.git"
+  },
+  "author": "Relton Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reltonfidelisdev/Introducao-NodeJS-JavaScript_DIO/issues"
+  },
+  "homepage": "https://github.com/reltonfidelisdev/Introducao-NodeJS-JavaScript_DIO#readme"
+}
