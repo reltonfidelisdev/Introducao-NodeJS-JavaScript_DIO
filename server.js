@@ -7,6 +7,6 @@ http.createServer((req, res) => {
     if(url === '/stats'){
     res.end(JSON.stringify(stats, null, 2));
     }else{
-        res.end('<h1> Seja bem vindo</h1>')
+        res.end('<h1>Seja bem vindo</h1>')
     }
 }).listen(3000, () => console.log(`Server running in ${hostUrl}:${port}, to open on web browser. ${stats}`))
